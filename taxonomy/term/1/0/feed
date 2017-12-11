@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://assorted.in" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Assorted - Technology </title>
+ <link>http://assorted.in/taxonomy/term/1/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Bye Bye WebROaR</title>
+ <link>http://assorted.in/technology/bye-bye-webroar</link>
+ <description>&lt;p&gt;I quit my job last week, and probably the hardest thing it brought along for me, was to &lt;strong&gt;&lt;a href=&quot;http://webroar.in/blog/2010/3/25/team-changes&quot;&gt;move out&lt;/a&gt;&lt;/strong&gt; of one of my most favorite projects - &lt;strong&gt;&lt;a href=&quot;http://webroar.in&quot; target=&quot;_blank&quot;&gt;WebROaR&lt;/a&gt;&lt;/strong&gt;. &lt;/p&gt;
+&lt;p&gt;I got an opportunity to create this product from scratch, and boy it was fun. The initial version came out of 3 long nights of me hacking in office and once we got a team going for its development, it turned out to be a decent piece of software. (Yeah, I am biased .. :-))&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://assorted.in/technology/bye-bye-webroar&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://assorted.in/technology/bye-bye-webroar#comments</comments>
+ <category domain="http://assorted.in/technology">Technology </category>
+ <pubDate>Wed, 31 Mar 2010 06:44:44 -0400</pubDate>
+ <dc:creator>Aditya</dc:creator>
+ <guid isPermaLink="false">58 at http://assorted.in</guid>
+</item>
+<item>
+ <title>Brachistochrone</title>
+ <link>http://assorted.in/technology/brachistochrone</link>
+ <description>&lt;p&gt;Recently, I studied the &quot;Brachistochrone&quot; problem for an Optimization course project. If, like me, you dont know Greek, the term requires an introduction. It literally means &quot;shortest time&quot;. The problem is thus...&lt;/p&gt;
+&lt;p&gt;&lt;cite&gt;&lt;br /&gt;
+The brachistochrone curve, or curve of shortest time, is the curve between two points that is covered in the least time by a body that travels under the action of constant gravity.&lt;br /&gt;
+&lt;/cite&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://assorted.in/technology/brachistochrone&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://assorted.in/technology/brachistochrone#comments</comments>
+ <category domain="http://assorted.in/technology">Technology </category>
+ <pubDate>Tue, 25 Mar 2008 03:14:50 -0400</pubDate>
+ <dc:creator>nag.rajan</dc:creator>
+ <guid isPermaLink="false">28 at http://assorted.in</guid>
+</item>
+<item>
+ <title>Why to do a startup?</title>
+ <link>http://assorted.in/technology/why-do-a-startup</link>
+ <description>&lt;p&gt;I have been one of those individuals, who has been saying, “I’ll do something on my own”, since forever. But of course, with time you gain a bit more maturity and ability to put things in to perspective in this broader framework of life.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://assorted.in/technology/why-do-a-startup&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://assorted.in/technology/why-do-a-startup#comments</comments>
+ <category domain="http://assorted.in/technology">Technology </category>
+ <pubDate>Sun, 23 Mar 2008 02:57:26 -0400</pubDate>
+ <dc:creator>Aditya</dc:creator>
+ <guid isPermaLink="false">27 at http://assorted.in</guid>
+</item>
+<item>
+ <title>The colors behind TVs and Printers</title>
+ <link>http://assorted.in/technology/the-colors-behind-tvs-and-printers</link>
+ <description>&lt;p&gt;Some time ago, I wondered about this question...&lt;br /&gt;
+Is there a reason why RGB (Red Green Blue) is used to create pictures in television and CMYK (Cyan Magenta Yellow and Key[black]) is used in printers? Can we use RGB in printers?&lt;br /&gt;
+Corollary question - What color paint do we get if we mix red paint and green paint?&lt;/p&gt;
+&lt;p&gt;After some investigation, I compiled a detailed answer, which follows...&lt;br /&gt;
+There are 2 kinds of objects that we percieve, differentiating by the method by which they manipulate light. There are sources and there are reflectors.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://assorted.in/technology/the-colors-behind-tvs-and-printers&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://assorted.in/technology/the-colors-behind-tvs-and-printers#comments</comments>
+ <category domain="http://assorted.in/technology">Technology </category>
+ <pubDate>Tue, 18 Mar 2008 22:56:04 -0400</pubDate>
+ <dc:creator>nag.rajan</dc:creator>
+ <guid isPermaLink="false">25 at http://assorted.in</guid>
+</item>
+<item>
+ <title>Pi day - March 14th</title>
+ <link>http://assorted.in/technology/pi-day-march-14th</link>
+ <description>&lt;p&gt;Recently, an interesting day passed by us, probably without many of us noticing it. March 14th was celebrated as PI day by Mathematicians around the world.&lt;/p&gt;
+&lt;p&gt;I would have missed it if not for these mails which did a good job of reminding about it. I might have added some of my own comments about PI day, but these mails sum it up so well...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://assorted.in/technology/pi-day-march-14th&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://assorted.in/technology/pi-day-march-14th#comments</comments>
+ <category domain="http://assorted.in/technology">Technology </category>
+ <pubDate>Tue, 18 Mar 2008 17:55:29 -0400</pubDate>
+ <dc:creator>nag.rajan</dc:creator>
+ <guid isPermaLink="false">24 at http://assorted.in</guid>
+</item>
+<item>
+ <title>Connecting two computers with a straight-through cable</title>
+ <link>http://assorted.in/technology/connecting-two-computers-with-a-straight-through-cable</link>
+ <description>&lt;p&gt;A conversation in office today:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;X: I want to transfer data between 2 computers, using this network cable only at home.&lt;br /&gt;
+Y (A bull headed kind of a character): You would need a cross-over cable to connect for sure. This straight-through cable won’t work. &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;X: I thought I did it once with this.&lt;br /&gt;
+Y (with a smirk): Nah, not possible, I have done it during ‘my time’ for playing multiplayer games, it damn only works with a cross-over cable. I bet you 1000 bucks, it won’t work with this cable.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;X: No harm in trying right now.&lt;br /&gt;
+Y: He He. Let’s do it. &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://assorted.in/technology/connecting-two-computers-with-a-straight-through-cable&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://assorted.in/technology/connecting-two-computers-with-a-straight-through-cable#comments</comments>
+ <category domain="http://assorted.in/technology">Technology </category>
+ <pubDate>Tue, 18 Mar 2008 11:22:00 -0400</pubDate>
+ <dc:creator>Aditya</dc:creator>
+ <guid isPermaLink="false">21 at http://assorted.in</guid>
+</item>
+<item>
+ <title>Fire the workaholics?</title>
+ <link>http://assorted.in/technology/fire-workaholics</link>
+ <description>&lt;p&gt;DHH lists down his &lt;a href=&quot;http://www.37signals.com/svn/posts/902-fire-the-workaholics&quot; target=&quot;_blank&quot;&gt;reasons of why workaholics should be fired&lt;/a&gt;, the one i really endorse is:&lt;/p&gt;
+&lt;p&gt;&lt;cite&gt;# Working with interesting people is more interesting than just working. If all you got going for your life is work, work, work, the good team-gelling lunches are going to be some pretty boring straight shop talk. Yawn. I’d much rather hear more about your whittling project, your last trek, how your garden is doing, or when you’ll get your flight certificate.&lt;/cite&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://assorted.in/technology/fire-workaholics&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://assorted.in/technology/fire-workaholics#comments</comments>
+ <category domain="http://assorted.in/technology">Technology </category>
+ <pubDate>Sun, 09 Mar 2008 12:56:59 -0400</pubDate>
+ <dc:creator>Aditya</dc:creator>
+ <guid isPermaLink="false">11 at http://assorted.in</guid>
+</item>
+<item>
+ <title>Who should decide which programming language should be used for a task?</title>
+ <link>http://assorted.in/technology/who-should-decide-which-programming-language-should-be-used-a-task</link>
+ <description>&lt;p&gt;Zed Shaw recently wrote a very good &lt;a href=&quot;http://www.cio.com/article/191000/You_Used_Ruby_to_Write_WHAT_&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;article&lt;/strong&gt;&lt;/a&gt; summarizing the tasks that can be done well using Ruby, and some that one would be better off using a different language, at least at this point of time.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://assorted.in/technology/who-should-decide-which-programming-language-should-be-used-a-task&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://assorted.in/technology/who-should-decide-which-programming-language-should-be-used-a-task#comments</comments>
+ <category domain="http://assorted.in/technology">Technology </category>
+ <pubDate>Tue, 04 Mar 2008 12:16:15 -0500</pubDate>
+ <dc:creator>Aditya</dc:creator>
+ <guid isPermaLink="false">4 at http://assorted.in</guid>
+</item>
+</channel>
+</rss>
